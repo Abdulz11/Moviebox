@@ -35,7 +35,7 @@ export default function Home() {
       <nav>
         <div className='navbar'>
           <div className='flex-hor' style={{ gap: 15 }}>
-            <img className='main-logo' src='images/tv.png' />
+            <img className='main-logo' src='./images/tv.png' />
             <h2>MovieBox</h2>
           </div>
           <form>
